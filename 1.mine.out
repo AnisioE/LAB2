@@ -1,0 +1,60 @@
+Argentina  
+Chile  
+Argentina  
+Chile  
+Argentina  
+Portugal  
+Chile  
+Argentina  
+Portugal  
+Espanha  
+O n�mero de elementos s�o 4.
+<models.Node.Node object at 0x000001FC5C4DD960>
+Chile  
+Argentina  
+Portugal  
+Espanha  
+Franca  
+<models.Node.Node object at 0x000001FC5C4DD960>
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+China  
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+China  
+Japao  
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+China  
+Japao  
+Angola  
+Chile  
+Argentina  
+Portugal  
+Italia  
+Espanha  
+Franca  
+O n�mero de elementos s�o 9.
+Item found
+O pa�s Portugal encontra-se na lista.
+item not found
+O pa�s Alemanha n�o se encontra na lista.
+O pa�s China foi eliminado da lista.
+O n�mero de elementos s�o 8.
+O pa�s Franca foi eliminado da lista.
+O n�mero de elementos s�o 7.
+Item found
+O pa�s Chile foi eliminado da lista.
+O n�mero de elementos s�o 6.
